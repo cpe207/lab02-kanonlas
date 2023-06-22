@@ -1,0 +1,28 @@
+h1 {
+  color: cornflowerblue;
+  font-style: oblique;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: blueviolet;
+  font-style: italic;
+}
+
+h3 {
+  color: cadetblue;
+  font-style: italic;
+}
+.skill-header {
+  text-align: left;
+}
+.skill-container {
+  border: rgb(29, 107, 186) solid;
+  width: 400px;
+  margin-top: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16px;
+  margin-bottom: 8px;
+}
